@@ -1,6 +1,3 @@
-board= " ", " ", " ", " ", " ", " ", " ", " ", " "
-puts "display_board #{board}"
+ruby board= " ", " ", " ", " ", " ", " ", " ", " ", " "
 
-def display_board
-  puts "display_board #{board}"
-end
+display_board #{board}"
