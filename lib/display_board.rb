@@ -2,6 +2,5 @@ def board= [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 end
 
 
-def display_board
-  puts ["board"]
+def display_board(board)
 end
