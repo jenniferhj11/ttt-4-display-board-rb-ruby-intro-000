@@ -1,2 +1,3 @@
-def board= [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-end
+board= [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
+puts "display_board #{board}"
